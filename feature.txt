@@ -1,0 +1,7 @@
+Initial Commit On the Feature Branch
+Commit Created In Sub Feature Branch To Conflict With Feature Branch
+Fourth Commit On the Sub Feature Branch
+Fifth Commit On the Sub Feature Branch
+Second Commit On the Feature Branch To Conflict With The Sub-Feature Branch
+Third Commit Made On the Feature Branch
+Fifth COmmit From The feature Branch
